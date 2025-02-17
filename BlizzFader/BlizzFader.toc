@@ -1,0 +1,10 @@
+## Interface: 20502
+## Title: Blizz Fader
+## Notes: Fade out/in the Party and TargetFrame when out of range based on your spells
+## Author: Pixol modified and enhanced by Macumba
+## Version 1.3
+## SavedVariablesPerCharacter: BlizzFaderDB
+
+embeds.xml
+
+BlizzFader.lua
